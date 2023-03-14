@@ -1,0 +1,87 @@
+
+-------------------------------------------------------------------
+[Downloader2] Loaded configuration: normal
+[Downloader2] Files in queue 16
+[Downloader2] Starting download 16 files...
+[D#1] >  http://res.tlauncher.org/b/libraries/com/google/inject/guice/4.1.0/guice-4.1.0.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/javax/inject/javax.inject/1/javax.inject-1.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/log4j/log4j/1.2.17/log4j-1.2.17.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/com/google/inject/extentions/guice-assistedinject/4.1.0/guice-assistedinject-4.1.0.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/org/tukaani/xz/1.5/xz-1.5.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/com/google/guava/guava/19.0/guava-19.0.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/org/tlauncher/picture-bundle/3.7/picture-bundle-3.7.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/org/tlauncher/skin-server-API/1.0/skin-server-API-1.0.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/dnsjava/dnsjava/2.1.8/dnsjava-2.1.8.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/org/tlauncher/tlauncher-resource/1.4/tlauncher-resource-1.4.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/org/apache/httpcomponents/fluent-hc/4.5.13/fluent-hc-4.5.13.jar 
+[D#2] >  http://res.tlauncher.org/b/libraries/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar 
+[D#1] >  http://res.tlauncher.org/b/libraries/com/github/junrar/junrar/0.7/junrar-0.7.jar 
+[Bootstrapper] createLauncher
+[Bootstrapper] choose jvm:C:\Users\Ferrax\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+[Bootstrapper] validate files
+[Bootstrapper] end validated files
+[Bootstrapper] Starting launcher...
+[Double running] clear time label
+> Loading configuration from file: C:\Users\Ferrax\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+> [Configuration] Constant values: {}
+> [Loading] INITIALIZING
+> Starting TLauncher PRE 2.878 RELEASE
+> For more information, visit https://tlauncher.org/
+> Startup time: 14.03.2023 8:46:18
+> Running folder E:\�?гры\minecraft
+> ---
+> [Loading] LOADING_CONFIGURATION
+> Machine info: -------------------------------------------------------
+> Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 32709 MB RAM
+> java path=C:\Users\Ferrax\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+> Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz
+>  NVIDIA GeForce RTX 3060, NVIDIA GeForce RTX 3060, 28491 MB
+> -------------------------------------------------------
+> Selected locale: ru_RU
+> [Loading] LOADING_CONSOLE
+> [Downloader2] Loaded configuration: good
+> [Updater] Requesting an update...
+> [Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_test_master_2.0.json
+> [Updater] Making request: https://repo.tlauncher.org/update/lch/update_test_master_2.0.json?version=2.878&client=c5ed10e3-bec1-417c-8cde-44b74b82db13
+> [Browser] Loading resources...
+> [Browser] Loading background...
+> [Browser] Cleaning up after loading:
+> Starting garbage collector: 170 / 387 MB
+> Garbage collector completed: 28 / 480 MB
+> [Loading] LOADING_MANAGERS
+> [LocalVersionList] Base directory: E:\�?гры\MineClient
+> [ProfileManager] Refreshing profiles from: E:\�?гры\MineClient\TlauncherProfiles.json
+> file not exist TlauncherProfiles.json
+> [Updater] Request time: 542 ms
+> [Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_test_master_2.0.json
+> [AdvertisingStatusObserver]  started to get ad information
+> [AdvertisingStatusObserver]  finished to get add information
+> save profiles
+> [GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+> [Loading] LOADING_WINDOW
+> [JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index.html
+> [Browser] Running in JavaFX Thread
+> [Browser] Preparing JavaFX...
+> [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+> [Loading] PREPARING_MAINPANE
+> [Browser] Initializing...
+> [REPO][SERVER_LIST_REPO] Success: Reached the repo in 215 ms.
+> [JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+> [Browser@1375202859] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index.html"
+> [Downloader2] Loaded configuration: good
+> [Browser] add listens into server_choose
+> [Browser] finished listens into server_choose
+> [Loading] POSTINIT_GUI
+> [Frame] Packing main frame...
+> [Frame] Resizing main pane...
+> Updater is already closed. Showing up...
+> Visibility set.
+> [Loading] REFRESHING_INFO
+> [VersionManager] Refreshing versions remotely...
+> [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+> Started! (6141 ms.)
+> [Loading] SUCCESS
+[Bootstrapper] I can be terminated now: 0

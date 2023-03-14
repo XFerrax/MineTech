@@ -1,0 +1,15 @@
+{
+  "clientToken": "995a22dd-31bd-4598-a56a-6ce3b2bd015d",
+  "accounts": {
+    "f8298f0adf0942a794a3c6c7c8e1015f": {
+      "username": "Ferrax",
+      "userID": "Ferrax",
+      "displayName": "Ferrax",
+      "uuid": "f8298f0adf0942a794a3c6c7c8e1015f",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "f8298f0adf0942a794a3c6c7c8e1015f",
+  "freeAccountUUID": "f8298f0adf0942a794a3c6c7c8e1015f"
+}
