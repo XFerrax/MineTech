@@ -1,0 +1,742 @@
+[Loading] INITIALIZING
+Starting TLauncher PRE 2.878 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 14.03.2023 10:20:33
+Running folder E:\Игры\MineClient
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 32709 MB RAM
+java path=C:\Users\Ferrax\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz
+ NVIDIA GeForce RTX 3060, NVIDIA GeForce RTX 3060, 28491 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_test_master_2.0.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/update_test_master_2.0.json?version=2.878&client=c5ed10e3-bec1-417c-8cde-44b74b82db13
+[Browser] Loading resources...
+[Updater] Request time: 278 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_test_master_2.0.json
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 169 / 389 MB
+Garbage collector completed: 29 / 487 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: E:\Игры\MineClient
+[ProfileManager] Refreshing profiles from: E:\Игры\MineClient\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Browser] Initializing...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 180 ms.
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@1459706434] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (5009 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 77 ms.
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 86 ms.
+[ExtraVersionList] Got in 162 ms
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 354 ms.
+[SkinVersionList] Got in 374 ms
+[Double running] clear time label
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 8321 ms.
+[OfficialVersionList] Got in 8443 ms
+[VersionManager] Versions has been refreshed (8532 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+run server on  37842
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 123 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 217 ms.
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 51 ms.
+[ExtraVersionList] Got in 66 ms
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 117 ms.
+[SkinVersionList] Got in 120 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 500 ms.
+[OfficialVersionList] Got in 558 ms
+[VersionManager] Versions has been refreshed (567 ms)
+[ProfileManager] Refreshing profiles from: E:\Игры\MineClient\TlauncherProfiles.json
+save profiles
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 141 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 118 ms.
+[OS] Trying to open folder: E:\Игры\MineClient\
+onAuthPassed
+saved account Account{displayName=Ferrax, userid=Ferrax, uuid=f8298f0adf0942a794a3c6c7c8e1015f, username=Ferrax}
+save profiles
+[ProfileManager] Refreshing profiles from: E:\Игры\MineClient\TlauncherProfiles.json
+save profiles
+[OS] Trying to open link with default browser: https://tlauncher.org/ru/install-skins.html
+AccountComboBox.validte pre game launch username Account{displayName=Ferrax, userid=Ferrax, uuid=f8298f0adf0942a794a3c6c7c8e1015f, username=Ferrax} FREE
+onAuthPassed
+saved account Account{displayName=Ferrax, userid=Ferrax, uuid=f8298f0adf0942a794a3c6c7c8e1015f, username=Ferrax}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.878
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: true
+[Launcher] Selected version: ForgeOptiFine 1.19.2
+[Launcher] Selected account: Account{displayName=Ferrax, userid=Ferrax, uuid=f8298f0adf0942a794a3c6c7c8e1015f, username=Ferrax}
+[Launcher] Version sync info: VersionSyncInfo{id='ForgeOptiFine 1.19.2',
+local=null,
+remote=PartialVersion{id='ForgeOptiFine 1.19.2', time=Thu Aug 04 04:25:45 GMT+03:00 2022, release=Thu Aug 04 04:25:45 GMT+03:00 2022, type=modified, source=SKIN_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@1bc3d03f}, isInstalled=false, hasRemote=true, isUpToDate=false}
+[REPO][EMPTY] Attempt #1; timeout: 30000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 194 ms.
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading from repository...
+[REPO][EMPTY] Attempt #1; timeout: 30000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 489 ms.
+[AssetsManager] Fast comparing: false
+[Launcher] finished comparing assets: 18437 ms.
+[TLauncherManager] add required libraries: ForgeOptiFine 1.19.2
+getting downloadable org.tlauncher:authlib:3.11.49.5 SKIN_VERSION_REPO E:\Игры\MineClient\libraries\org\tlauncher\authlib\3.11.49.5\authlib-3.11.49.5.jar WINDOWS
+getting downloadable org.tlauncher:tl_skin_cape_forge_1.19_1.19.2:1.28 SKIN_VERSION_REPO E:\Игры\MineClient\libraries\org\tlauncher\tl_skin_cape_forge_1.19_1.19.2\1.28\tl_skin_cape_forge_1.19_1.19.2-1.28.jar WINDOWS
+[VersionManager] Required for version ForgeOptiFine 1.19.2: [Downloadable{path='org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/jodah/typetools/0.8.3/typetools-0.8.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/ow2/asm/asm-util/9.3/asm-util-9.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='optifine/OptiFine/OptiFine-1.19.2_HD_U_I1_pre4/OptiFine-1.19.2_HD_U_I1_pre4.jar'; repo=MODPACK_REPO; destinations=E:\Игры\MineClient\libraries\optifine\OptiFine\OptiFine-1.19.2_HD_U_I1_pre4\OptiFine-OptiFine-1.19.2_HD_U_I1_pre4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/ow2/asm/asm/9.3/asm-9.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/tlauncher/tl_skin_cape_forge_1.19_1.19.2/1.28/tl_skin_cape_forge_1.19_1.19.2-1.28.jar'; repo=MODPACK_REPO; destinations=E:\Игры\MineClient\libraries\org\tlauncher\tl_skin_cape_forge_1.19_1.19.2\1.28\tl_skin_cape_forge_1.19_1.19.2-1.28.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/electronwill/night-config/core/3.6.4/core-3.6.4.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/mojang/logging/1.0.0/logging-1.0.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/mojang/authlib/3.11.49/authlib-3.11.49.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/ibm/icu/icu4j/70.1/icu4j-70.1.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/tlauncher/authlib/3.11.49.5/authlib-3.11.49.5.jar'; repo=MODPACK_REPO; destinations=E:\Игры\MineClient\libraries\org\tlauncher\authlib\3.11.49.5\authlib-3.11.49.5.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/minecraftforge/fmlloader/1.19.2-43.2.3/fmlloader-1.19.2-43.2.3.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.3\fmlloader-1.19.2-43.2.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='com/google/code/gson/gson/2.8.9/gson-2.8.9.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}, Downloadable{path='org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar'; repo=EMPTY; destinations=E:\Игры\MineClient\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@7ed055fb; handlers=[]; error=null;}]
+[TLauncherManager] add required libraries: ForgeOptiFine 1.19.2
+is arm64 false javaConfiguration is null false
+jsonObject beforefalse
+jsonObject false
+jsonObject2 before false
+jsonObject2 false
+jsonObject2 {"java-runtime-alpha":[{"availability":{"group":4219,"progress":100},"manifest":{"sha1":"0586267ba40236e176925da17ca0d29dead3d30d","size":145480,"url":"https://launchermeta.mojang.com/v1/packages/0586267ba40236e176925da17ca0d29dead3d30d/manifest.json"},"version":{"name":"16.0.1.9.1","released":"2021-05-10T16:48:07+00:00"}}],"java-runtime-beta":[{"availability":{"group":3251,"progress":100},"manifest":{"sha1":"b180218a447157cfd0b639aa94b0fa1fc522f80e","size":145530,"url":"https://launchermeta.mojang.com/v1/packages/b180218a447157cfd0b639aa94b0fa1fc522f80e/manifest.json"},"version":{"name":"17.0.1.12.1","released":"2021-11-15T14:22:04+00:00"}}],"java-runtime-gamma":[{"availability":{"group":7950,"progress":100},"manifest":{"sha1":"c1d6e73803941a7b26ef4ae2e95f7d6566c35f67","size":147366,"url":"https://piston-meta.mojang.com/v1/packages/c1d6e73803941a7b26ef4ae2e95f7d6566c35f67/manifest.json"},"version":{"name":"17.0.3","released":"2022-04-29T11:45:17+00:00"}}],"jre-legacy":[{"availability":{"group":3654,"progress":100},"manifest":{"sha1":"ddc568a50326d2cf85765abb61e752aab191c366","size":78978,"url":"https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json"},"version":{"name":"8u51","released":"2020-11-17T19:12:13+00:00"}}],"minecraft-java-exe":[{"availability":{"group":23,"progress":100},"manifest":{"sha1":"956d6567682740ab6327a1e8357658d8f7b86421","size":455,"url":"https://launchermeta.mojang.com/v1/packages/956d6567682740ab6327a1e8357658d8f7b86421/manifest.json"},"version":{"name":"14","released":"2021-03-25T22:47:03+00:00"}}]}
+used default java runtime
+Minecraft requires java version: 17, java path: E:\Игры\MineClient\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe
+[Downloader2] Files in queue 316
+[Downloader2] Starting download 316 files...
+[D#1] >  https://res.tlauncher.org/b/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar 
+[D#3] >  https://res.tlauncher.org/b/libraries/cache/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-client.jar 
+[D#2] >  https://res.tlauncher.org/b/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt 
+[D#3] >  https://res.tlauncher.org/b/libraries/cache/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-universal.jar 
+[D#2] >  https://res.tlauncher.org/b/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar 
+[D#1] >  https://res.tlauncher.org/b/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar 
+[D#3] >  https://resources.download.minecraft.net/11/11b53f03de55300492f89e3b9dacba8d44aefbc8 
+[D#3] >  https://resources.download.minecraft.net/c7/c77a8ae1494e430323b620912c6d81adf5f4a5d0 
+[D#3] >  https://resources.download.minecraft.net/b8/b81f62822446110d86d47605b7dbf05835cebe52 
+[D#3] >  https://resources.download.minecraft.net/d9/d938e0743c4ab0b67796895dcfbd3fcde28dc978 
+[D#3] >  https://resources.download.minecraft.net/95/950aa0357153b9688f1b7cf88a084a89e1b3ced5 
+[D#2] >  https://res.tlauncher.org/b/libraries/cache/net/minecraftforge/mclanguage/1.19.2-43.2.3/mclanguage-1.19.2-43.2.3.jar 
+[D#3] >  https://resources.download.minecraft.net/83/83962d5e112037fdd11d6b066811ce37f261a3d4 
+[D#2] >  https://res.tlauncher.org/b/libraries/cache/net/minecraftforge/lowcodelanguage/1.19.2-43.2.3/lowcodelanguage-1.19.2-43.2.3.jar 
+[D#2] >  https://resources.download.minecraft.net/b9/b9711ded25fc398d77ab0286a665fb7f7ea34ae8 
+[D#3] >  https://resources.download.minecraft.net/c8/c8116e6d6b1f420bd5070cf332df54b7e4c35847 
+[D#1] >  https://res.tlauncher.org/b/libraries/cache/net/minecraftforge/fmlcore/1.19.2-43.2.3/fmlcore-1.19.2-43.2.3.jar 
+[D#3] >  https://resources.download.minecraft.net/26/264d86528d105fb83a7373aed97041f9394125a7 
+[D#2] >  https://resources.download.minecraft.net/f5/f5d832081b290e0d1e821ad1850dee99621aa7b0 
+[D#1] >  https://res.tlauncher.org/b/libraries/cache/net/minecraftforge/javafmllanguage/1.19.2-43.2.3/javafmllanguage-1.19.2-43.2.3.jar 
+[D#2] >  https://resources.download.minecraft.net/23/2308a8649ca3367404e064286748003338d57beb 
+[D#3] >  https://resources.download.minecraft.net/ee/eed521b4e76263546af1e075b7cb434b8ee2068b 
+[D#1] >  https://resources.download.minecraft.net/cf/cfbf88a100673921221b9ca5476a59cab3a24c77 
+[D#2] >  https://resources.download.minecraft.net/5c/5c26e976b740537457aafe2b06483b609c5c9217 
+[D#3] >  https://resources.download.minecraft.net/fb/fbeada4b9800d40a2179876822618c3d813d1e92 
+[D#1] >  https://resources.download.minecraft.net/e4/e4292a4a7458731abcd7e4cadb65f32318101fbb 
+[D#3] >  https://resources.download.minecraft.net/62/626d60714610c3021781ab1961a59a456992bd24 
+[D#1] >  https://resources.download.minecraft.net/e1/e197eeafe8d9693e1ec4d734953e906ae9d1e393 
+[D#3] >  https://resources.download.minecraft.net/fb/fb5a9a951154e2395d87e2d119ec9beffc01b84f 
+[D#2] >  https://resources.download.minecraft.net/52/52c903f61ff31cba654453f04cc55bc71a6b5a66 
+[D#1] >  https://resources.download.minecraft.net/ef/ef9ac36b766f250b720acdcff16d34b750fc17b2 
+[D#2] >  https://resources.download.minecraft.net/96/965504e61be930f8bf76b793af2a96ba4341ccf5 
+[D#1] >  https://resources.download.minecraft.net/00/007893c1f34fed69252c604d26c354a904100495 
+[D#2] >  https://resources.download.minecraft.net/af/af4dbce09ed03ddc033c62f20a1642da2bf7d8cf 
+[D#1] >  https://resources.download.minecraft.net/41/416f81d97bb18882740aa7947057f58d66e1ea1f 
+[D#3] >  https://resources.download.minecraft.net/2a/2a90d96c42860d179a6647e857e68d9ff3c4122c 
+[D#1] >  https://resources.download.minecraft.net/54/54e1bd09b8279ca1ba08c9d1f63ea4d30d17193e 
+[D#3] >  https://resources.download.minecraft.net/2b/2bcb416d7e9257e8afa2d0d80d0e58a4dc5f5c90 
+[D#1] >  https://resources.download.minecraft.net/55/554f0b9cf3bd5a30b1c3d79fa17f4676af7b4121 
+[D#2] >  https://resources.download.minecraft.net/e9/e9a2f51947dc537469133c6287c78d4d2f2b2b58 
+[D#1] >  https://resources.download.minecraft.net/24/24f939f94f47646bf387abc91b954b49fc1499ef 
+[D#3] >  https://resources.download.minecraft.net/53/536e0c2007d7eba53fbbb4bfb07e68a4d42474bf 
+[D#2] >  https://resources.download.minecraft.net/04/04cc4bf5d825727a79d4341d65510a4369797005 
+[D#1] >  https://resources.download.minecraft.net/24/242e5867807b262bc0d5ec693415c0ce10633ba6 
+[D#3] >  https://resources.download.minecraft.net/96/96084ab7c8b613de3570318e9dca9f9107e3912f 
+[D#1] >  https://resources.download.minecraft.net/9d/9d1b6140aae336c48c3cb3d42b33211d1826a00a 
+[D#3] >  https://resources.download.minecraft.net/37/371479bc53dd6ed46b01b55c0df92773840cca77 
+[D#1] >  https://resources.download.minecraft.net/28/28f39271dd9bc4d7860143bdebf8b81b811d5f27 
+[D#2] >  https://resources.download.minecraft.net/a1/a1daff5daa55f870c29becece97fc88e3da0b18e 
+[D#3] >  https://resources.download.minecraft.net/ae/aeb548d8375ca49815cf4fd494738855dd49cb20 
+[D#2] >  https://resources.download.minecraft.net/b4/b4a32ad9163d64aa7ad836e309dbdc27fc38234c 
+[D#3] >  https://resources.download.minecraft.net/d2/d21a4fd78ab3b18c74a24530d46fe98d2136a049 
+[D#1] >  https://resources.download.minecraft.net/dc/dcf467f22ed86cfc1775bc03636a9b460d50acce 
+[D#2] >  https://resources.download.minecraft.net/04/043a7d5cb1328cfdcaf7a9bc5166929e850b3871 
+[D#1] >  https://resources.download.minecraft.net/59/591801fad1ac86be4b9d776e4caec2b63476e340 
+[D#2] >  https://resources.download.minecraft.net/5b/5bacd01efcca5fe66ad2e335a9bbff7d4e9d5e62 
+[D#3] >  https://resources.download.minecraft.net/d1/d11e43d75e4d3c4df691a7fbcdcece8762b8fc2b 
+[D#1] >  https://resources.download.minecraft.net/62/621d728698d4555b55f15b1c0d1b42d9d886bf71 
+[D#2] >  https://resources.download.minecraft.net/09/09b1789901e23513e0f4bd1baf6607756994f017 
+[D#1] >  https://resources.download.minecraft.net/ca/ca6b2acbfce75da3ca18d80309f15470ebeb4f54 
+[D#3] >  https://resources.download.minecraft.net/d1/d11ce21cc8a280448e9c12a28406583127809b79 
+[D#2] >  https://resources.download.minecraft.net/ed/ed428a5dd11f904a298d1d4b41fe8c5cc3a09144 
+[D#3] >  https://resources.download.minecraft.net/0e/0ef7d4d999ffafc6abb491a39a0acb1f8e5e41d4 
+[D#1] >  https://resources.download.minecraft.net/75/75ed12a3ca798031430c688b62e9e3ad1fd2b4c3 
+[D#3] >  https://resources.download.minecraft.net/6e/6ecd9f119565e991449cd43b67a4532e9b71bf46 
+[D#2] >  https://resources.download.minecraft.net/e1/e18a562580403067ed689d10f0bc9b8d01326556 
+[D#3] >  https://resources.download.minecraft.net/5d/5de299f4985808174431103d6801f6b1bb6695cb 
+[D#1] >  https://resources.download.minecraft.net/93/9349151dffc3a456da0c5f930bb1cfd4a3f0b3b6 
+[D#2] >  https://resources.download.minecraft.net/34/343376122b2d8df819f24e578dde1099064c953e 
+[D#1] >  https://resources.download.minecraft.net/09/09eed4386d27128cde4765965b68ee2e44a2dfec 
+[D#2] >  https://resources.download.minecraft.net/e4/e4cd21e4cf18f4fb6147efafbda651eb9f7577f6 
+[D#1] >  https://resources.download.minecraft.net/a2/a2fffcda4a262d55f3f0d41dca504d16219b4c1a 
+[D#3] >  https://resources.download.minecraft.net/ed/ed61bd9edb3716a1915c8c71929e36ab0d862682 
+[D#1] >  https://resources.download.minecraft.net/53/533da01f32edc557e10ed64fc9111a9c89ef625c 
+[D#2] >  https://resources.download.minecraft.net/3d/3d4cdc0cee07f4358b5b63c3a87c8a09799e9fe2 
+[D#3] >  https://resources.download.minecraft.net/d2/d2d54c51f6312ecfc229ef6a12b4f11b17579fdb 
+[D#2] >  https://resources.download.minecraft.net/d4/d45d893a026dcba8f54ac8ae9762d49b51165105 
+[D#1] >  https://resources.download.minecraft.net/3d/3d08fe5a02cb0ca346f9c22dcb20beb1076a6e2c 
+[D#3] >  https://resources.download.minecraft.net/8c/8cfde379664d1eade49c90bb85a2b8883dc70ef3 
+[D#1] >  https://resources.download.minecraft.net/83/8336e6d043ddb1c0f4732582dc13124a5ec8bd14 
+[D#3] >  https://resources.download.minecraft.net/7f/7f13e0926abdaabfd578894be4b46a83a909a2fe 
+[D#2] >  https://resources.download.minecraft.net/79/79d0a37f47ec935fc2dbc54752bbee41a890d8e1 
+[D#3] >  https://resources.download.minecraft.net/a2/a20b6d705e7e281276b3d2aa3c46ae0facd97b40 
+[D#1] >  https://resources.download.minecraft.net/a5/a5f46f4a4375c409fedf3f27dbce19b03fb7ccf4 
+[D#3] >  https://resources.download.minecraft.net/68/681c27e93a2d584b7edc476005849f518fe0634b 
+[D#1] >  https://resources.download.minecraft.net/0b/0ba334de9bca297d2806f2bb37a68214aaccf116 
+[D#3] >  https://resources.download.minecraft.net/47/475fea2335ea6e9af8cb790867a8f06fe65692bc 
+[D#1] >  https://resources.download.minecraft.net/ec/ec065c71057ba1524c0baa84064055b0bde4ae3a 
+[D#2] >  https://resources.download.minecraft.net/72/721654ab9408419f263434f43ee82a2e8794fccb 
+[D#3] >  https://resources.download.minecraft.net/e5/e59ec638c80192c7521d7c4193c2e9f927cc9d3f 
+[D#1] >  https://resources.download.minecraft.net/09/090976a0e1368b73a35dc6298630de8a2283fcb9 
+[D#2] >  https://resources.download.minecraft.net/86/86040880d64d2b718d7fc8b1f2c5c4f0c8753a8c 
+[D#1] >  https://resources.download.minecraft.net/99/994c5e3c27353eb77dee97e54762d78f0f0e5e63 
+[D#2] >  https://resources.download.minecraft.net/60/6017b341f38ee9dae4bc9a320af865e083b1caaa 
+[D#1] >  https://resources.download.minecraft.net/32/32829b6cbf2bbefd2b44cf6d9b8c99d5b0a2aa1a 
+[D#3] >  https://resources.download.minecraft.net/5a/5a258f5ddfc55d5f1aa06d9d1e6ecb8c777886f1 
+[D#1] >  https://resources.download.minecraft.net/63/6309046c49ff1efc702568c32efb14207c795210 
+[D#2] >  https://resources.download.minecraft.net/bd/bd8d9eb633220c4da979ca37fc998cd436a7e509 
+[D#1] >  https://resources.download.minecraft.net/6f/6f98e248889fbf280e91ffdac3efc41192891cdc 
+[D#2] >  https://resources.download.minecraft.net/4a/4a7ff915695571a322df6125f063dfa245c79c24 
+[D#1] >  https://resources.download.minecraft.net/e8/e8fc3bc2def1ac52ee30fcae707b7b6a0559bb28 
+[D#2] >  https://resources.download.minecraft.net/30/309d513ed7e253e1bb519ea243a8f1c81e56b870 
+[D#3] >  https://resources.download.minecraft.net/9f/9f0632cc162799c85caecae2a49ce55647b12ce3 
+[D#1] >  https://resources.download.minecraft.net/71/718f42afe76b9b3f450a272c142f83f00ca45d18 
+[D#3] >  https://resources.download.minecraft.net/56/56103590543b46f90c02c804d7a6de16ffc28eed 
+[D#1] >  https://resources.download.minecraft.net/e4/e46d7f7c79af85eca73f3255450446a96c6ee4f3 
+[D#2] >  https://resources.download.minecraft.net/46/464c49e74e27b1e8969730bc257f142d21c46adf 
+[D#1] >  https://resources.download.minecraft.net/ed/ed37c1fd8cbcfbfdde9fb7d610efd09363d2525f 
+[D#3] >  https://resources.download.minecraft.net/df/dfb4332eee136395561053adce1d5856900b0f3e 
+[D#2] >  https://resources.download.minecraft.net/da/da3a23361dd32827dbe3161eb1ab5ea3b1ad2d68 
+[D#1] >  https://resources.download.minecraft.net/01/011cf0d5b4015b52129caa98c7c4a35ea7a795ed 
+[D#2] >  https://resources.download.minecraft.net/76/7681c60eee7b6c65d4ff3786108f772df74526e4 
+[D#1] >  https://resources.download.minecraft.net/d2/d2f9d141bb75bca55664cfdba1105576b0753065 
+[D#3] >  https://resources.download.minecraft.net/e8/e8b0832b2b6f8e77494b122b8da68b25230cdd76 
+[D#2] >  https://resources.download.minecraft.net/0a/0aeed86cdac58947166886cffeabca48cb8b08d5 
+[D#1] >  https://resources.download.minecraft.net/0f/0f92e6b4aed55c38966151c73606f6082eafbad1 
+[D#3] >  https://resources.download.minecraft.net/4a/4a75f341fdd845fc5fa58365677e822acccfee8b 
+[D#2] >  https://resources.download.minecraft.net/0c/0c1e15b0c2e32d698fbdafe47f09c90976126542 
+[D#1] >  https://resources.download.minecraft.net/1e/1e5ce45248b28cfd09b761b757e469424fa09846 
+[D#3] >  https://resources.download.minecraft.net/88/888b93517f29920c44ec8dd2b19864986f1654dc 
+[D#2] >  https://resources.download.minecraft.net/ed/ed480c6848c5d66cada0ced44a623ef1fa32b9d3 
+[D#3] >  https://resources.download.minecraft.net/d1/d1332060277623bf6f60249fd32c79fb24863507 
+[D#1] >  https://resources.download.minecraft.net/c1/c13e3ecdfa6d6a088e7dc0beea1f66177f96fbda 
+[D#2] >  https://resources.download.minecraft.net/e8/e8e9b18111e6da86e094aed5fc711f25ef602b15 
+[D#1] >  https://resources.download.minecraft.net/81/812f6703a08a98b5d805447126573872a0f4ef0d 
+[D#3] >  https://resources.download.minecraft.net/cf/cf88d5cc7768addcea27a2d0217e27128c69a580 
+[D#2] >  https://resources.download.minecraft.net/55/55108758c17018cbbda29641c8cb840a3d31e999 
+[D#3] >  https://resources.download.minecraft.net/4a/4a5ee2dd5f2db4132e805024d6cfa5892650ff48 
+[D#1] >  https://resources.download.minecraft.net/6b/6b5ff13f07f032baa713300d28cb6c5b2401efa2 
+[D#3] >  https://resources.download.minecraft.net/dc/dc730e91de96c201e64b85fd2ab3e5c48e7b687f 
+[D#2] >  https://resources.download.minecraft.net/9c/9cffc55f9e837f429341c3519b50f560fa89a57e 
+[D#3] >  https://resources.download.minecraft.net/9d/9d64f7c726c4c5c19977ff092da2ba38eccb065f 
+[D#2] >  https://resources.download.minecraft.net/bc/bc743503a9b0ba1b4f1eda33acda41a781953f85 
+[D#1] >  https://resources.download.minecraft.net/91/912cddcbb391af07d024ef085da7adb445456403 
+[D#3] >  https://resources.download.minecraft.net/78/7812d9e39b2d06cc4c53556fbe5560d55ef01407 
+[D#1] >  https://resources.download.minecraft.net/f0/f055de6e8d7bf3f99fb38dbe6948fb63ca12ee48 
+[D#2] >  https://resources.download.minecraft.net/74/7491a606ad58b1a623069e09630f896ae6ae5f3b 
+[D#3] >  https://resources.download.minecraft.net/ee/ee47499596ce0b9042d7182ca132c97b76275201 
+[D#2] >  https://resources.download.minecraft.net/b7/b793543a285be4f1e901db2b016577f680858f68 
+[D#3] >  https://resources.download.minecraft.net/c0/c05053d80edeaa1840bc2dac3c0f96c8c666bd2a 
+[D#2] >  https://resources.download.minecraft.net/b0/b03210cb88c9b8da1291ae4700160df12299b899 
+[D#1] >  https://resources.download.minecraft.net/57/576dd67b533a55aadecfebf457f2cad110262487 
+[D#3] >  https://resources.download.minecraft.net/8e/8ec6acb504876d1ecf634dc2f54906295e8a3bbc 
+[D#1] >  https://resources.download.minecraft.net/94/944fb69a90f37c58423bab0381e051aa19ca4fd9 
+[D#3] >  https://resources.download.minecraft.net/27/2734be26ce05875ef04d8e2d9fdede5944d9ce5f 
+[D#1] >  https://resources.download.minecraft.net/b6/b69aecc48378d9878233a54942d863991d013776 
+[D#2] >  https://resources.download.minecraft.net/6c/6c746d87cba81756d32e508856ddab2c65900b1c 
+[D#3] >  https://resources.download.minecraft.net/74/745a95675dba15c8db4a14ab66c9bae3553b80b3 
+[D#1] >  https://resources.download.minecraft.net/29/294570159e6eed0db6db8e492298a0bd62733097 
+[D#2] >  https://resources.download.minecraft.net/15/157bdf9123fd108b1045b1c34ec8b9d0f7ba2f8f 
+[D#3] >  https://resources.download.minecraft.net/6d/6dba909cf5da97f5bd448024ddb9087d4dc2483b 
+[D#2] >  https://resources.download.minecraft.net/32/321392d121f2d7ce4ea38dcb3eacc0130d5474f8 
+[D#1] >  https://resources.download.minecraft.net/67/6714e3f227a091e8d4f9657bc8e9f3a49fe5a9ae 
+[D#3] >  https://resources.download.minecraft.net/4f/4f16c4a5f0c71757d82fb7c179b2b1efb1873b57 
+[D#2] >  https://resources.download.minecraft.net/a8/a84c7b31c4ea3965e976f9d6d8abf10834eb88e2 
+[D#3] >  https://resources.download.minecraft.net/84/84ef7ddf267d05bda8d303606c6ea5fc039beb00 
+[D#1] >  https://resources.download.minecraft.net/14/141675b6e9ba9d49eaf2c12e7116edbb7ea9e6b1 
+[D#3] >  https://resources.download.minecraft.net/09/09dcd0a0f7313920d433da26b26d9bb451f24594 
+[D#2] >  https://resources.download.minecraft.net/a2/a2bc0ee41300cbb60250ede884876497d6fd8f09 
+[D#1] >  https://resources.download.minecraft.net/ab/ab49d96f2d3ba34d672335c390a4af595deb3900 
+[D#3] >  https://resources.download.minecraft.net/76/760bf8264dcbb1a788f37f11b75c24622c68a67b 
+[D#2] >  https://resources.download.minecraft.net/90/9015f0e20c778f87b03f7634680b08813d1248d9 
+[D#3] >  https://resources.download.minecraft.net/2a/2ab93e8b767cdafec68b36c3e30c4ef37873530c 
+[D#1] >  https://resources.download.minecraft.net/15/153173edd8d44158108b4487641a9b2522f0c613 
+[D#2] >  https://resources.download.minecraft.net/06/063728868416ce2e3269bbe017aeb089b510e878 
+[D#1] >  https://resources.download.minecraft.net/83/83cd04b0b3cdc335a51f1fda759c765e42f1415f 
+[D#3] >  https://resources.download.minecraft.net/4c/4c6ca9a8afe226d796df98de6b44a6bb9bfe6457 
+[D#2] >  https://resources.download.minecraft.net/3a/3a785f3a6b50372a4f90ae77be1b42a54760ddb6 
+[D#1] >  https://resources.download.minecraft.net/92/924e04818728a03d18f59f2a6375e8f3c8c244ec 
+[D#2] >  https://resources.download.minecraft.net/bc/bc567f09e45d400f3cea1ba71e2797c5d29de860 
+[D#3] >  https://resources.download.minecraft.net/ce/ce222bc81ed6f618c984c925c3342eb821e5ffee 
+[D#1] >  https://resources.download.minecraft.net/ab/abf5d0fca6c6e023f0615f63c9e1ba3799e98571 
+[D#2] >  https://resources.download.minecraft.net/09/09aef4ef872dbbd71df83eac7a0b0fd2695558de 
+[D#3] >  https://resources.download.minecraft.net/c1/c14f5ab8ef68299fc30585026c3ae7946ca3a154 
+[D#2] >  https://resources.download.minecraft.net/b1/b1b3818cfc504385ce863cfd5d67f26f18c44def 
+[D#1] >  https://resources.download.minecraft.net/5b/5b068815040393ad89b574042ded0b867897cc9e 
+[D#2] >  https://resources.download.minecraft.net/5b/5be9bc2dadede4024406b564cc6384cfd612957a 
+[D#3] >  https://resources.download.minecraft.net/7e/7e13e5d0749e5910e17202bfcbfff1b46acd40a7 
+[D#2] >  https://resources.download.minecraft.net/81/818732baa3813112c02aa3f471e53a188c6b592d 
+[D#1] >  https://resources.download.minecraft.net/16/16b9b9868af0efd6d8d516ca6477b9ad3a50be09 
+[D#2] >  https://resources.download.minecraft.net/5c/5c44e7a8da8afddd9220121ba76ec1badebb56c3 
+[D#3] >  https://resources.download.minecraft.net/fc/fcf3c4aaefdee767e7f20394052e97c1e49427eb 
+[D#1] >  https://resources.download.minecraft.net/18/186bc52af560ff1f2e05193f23f06919b36d99ae 
+[D#2] >  https://resources.download.minecraft.net/87/877579d0c9d32f29ca7ef44115a23e7a640d6149 
+[D#3] >  https://resources.download.minecraft.net/ad/ad73569e3ec802aa8b6099bf8895e934b4476c3d 
+[D#1] >  https://resources.download.minecraft.net/66/66fc657d0895ed025de8e9637b6317621435e8ad 
+[D#3] >  https://resources.download.minecraft.net/56/56f3ca02805f3f58857e65e636d0efa88365127e 
+[D#2] >  https://resources.download.minecraft.net/f4/f40271791c3b49b443be50bb3c9493884dd23e67 
+[D#3] >  https://resources.download.minecraft.net/f6/f61c7b790be045eee8cd79438457d8fef7a7c32f 
+[D#1] >  https://resources.download.minecraft.net/0a/0a884f3786db5a9600e3df34c453849da4f8a798 
+[D#2] >  https://resources.download.minecraft.net/59/59d56a946ab13ecba3eb192fdb90bc648706e78d 
+[D#3] >  https://resources.download.minecraft.net/2a/2aeaa10c6e3e8edeb5a81b1598e770c7942b7902 
+[D#1] >  https://resources.download.minecraft.net/9a/9ac35142dbf5ab135d3da0a91fcf096b2b9171fb 
+[D#3] >  https://resources.download.minecraft.net/57/5731bb18d3962fa74a42540ecdf921f9447ec005 
+[D#1] >  https://resources.download.minecraft.net/5c/5cb7a27c2aac31fd77b39c387de9679171b0c6c6 
+[D#3] >  https://resources.download.minecraft.net/88/88dc4f9963aa1cda2cfd5b2fd10d6546a89d15ef 
+[D#1] >  https://resources.download.minecraft.net/7a/7a9214b072c0a4bb8da0b4dd579dad5af7b1de8a 
+[D#2] >  https://resources.download.minecraft.net/bb/bb6d6921159cfa25c59aeb683f4923ad364815c6 
+[D#1] >  https://resources.download.minecraft.net/6a/6a972ba675028c468f7f7ab12985072f3b9e4c89 
+[D#3] >  https://resources.download.minecraft.net/1f/1feb1fc52924a7e8db7815b24b422eeaf3bebe0a 
+[D#1] >  https://resources.download.minecraft.net/e6/e6b344b76e04ca1d8beb47b6577e2eb7a385ed41 
+[D#2] >  https://resources.download.minecraft.net/04/04b34b750d11d0ec120c9dc5703a8da252c81734 
+[D#3] >  https://resources.download.minecraft.net/d2/d2198802bace5fd820abee94227aa9975d7ce8ca 
+[D#1] >  https://resources.download.minecraft.net/a2/a2913347cecf4295a92abd5e55f3437690d98f68 
+[D#2] >  https://resources.download.minecraft.net/84/84b4f8825efc355e065e0ca0e4f030b4f7d5776f 
+[D#3] >  https://resources.download.minecraft.net/8e/8e2b566d44e1656cc3e057e2a663a07a1c3fbec6 
+[D#1] >  https://resources.download.minecraft.net/c2/c202b3923d34073866da282459f751491ba4e8a2 
+[D#3] >  https://resources.download.minecraft.net/bf/bf2b3e1b2e1f44d0c3c6b3068d2da453d4c830ff 
+[D#2] >  https://resources.download.minecraft.net/c1/c14c64258936d68f8edbd02cd8cb9dc35501e12d 
+[D#1] >  https://resources.download.minecraft.net/85/85e031c8e1343cd0a331394821cb168080ab652b 
+[D#3] >  https://resources.download.minecraft.net/c9/c95cf8797dcabe76801378eeb907762570fc290e 
+[D#2] >  https://resources.download.minecraft.net/0e/0e9f5e314f46740b59eb9dde34be214bd2b96aa6 
+[D#3] >  https://resources.download.minecraft.net/17/17dfeedf432e0f7c52c800271ec0f167a96ac5ef 
+[D#2] >  https://resources.download.minecraft.net/bc/bcdd6161a26273bae72fb4849aaf2a4216a360b6 
+[D#1] >  https://resources.download.minecraft.net/a9/a93f16193c7f99f93430ef32b9af94692c06f254 
+[D#2] >  https://resources.download.minecraft.net/9e/9eb6c8b553d13bc0b98b3ca3cf220842ad33e06d 
+[D#3] >  https://resources.download.minecraft.net/56/56651a6769accbed0489df7a39e728294ee73805 
+[D#2] >  https://resources.download.minecraft.net/a5/a5edbbc4ed009fa72c605d97340f35d8e41e6c33 
+[D#1] >  https://resources.download.minecraft.net/89/89d4fabe0ce4dfae1970b3aa31a871ae7fa9a4fe 
+[D#3] >  https://resources.download.minecraft.net/4a/4a7b45a8f9a62d3d03b1cdf95869fe30e5cc6ca6 
+[D#1] >  https://resources.download.minecraft.net/07/0719b2d51a490acf93a783c66191e0524dc48aeb 
+[D#2] >  https://resources.download.minecraft.net/21/21b1c1df5ff13c3388617dd4c52e7b4c6051ab2c 
+[D#1] >  https://resources.download.minecraft.net/aa/aa70ab2de7648d57dd7395696c54c7044f866511 
+[D#3] >  https://resources.download.minecraft.net/fc/fc2e7d9dcbd71d08515a82da1bdc79005da299f5 
+[D#2] >  https://resources.download.minecraft.net/92/92bbe9e1080bbe7ddab995b53aac2144d2106f4c 
+[D#1] >  https://resources.download.minecraft.net/8d/8d7602a60933c8e1a2ad2ea4b89bda88c2458683 
+[D#3] >  https://resources.download.minecraft.net/2e/2ede938f35ae9f25b9d810a33a8f75b0247a5416 
+[D#2] >  https://resources.download.minecraft.net/26/26140f17859bea6ab4e71e6e11def1d2e00d43f8 
+[D#3] >  https://resources.download.minecraft.net/f5/f562a2306e3baf2efcb34103bba6d3bd50f7a019 
+[D#1] >  https://resources.download.minecraft.net/c2/c2edf0c61913e0351087ab0beb002820b0bdfa52 
+[D#2] >  https://resources.download.minecraft.net/97/97131d8b3ac3027bada6cd41e49d6afa26d08cb8 
+[D#3] >  https://resources.download.minecraft.net/41/414617ada14c6098f2b380a3bf665c75b19be897 
+[D#1] >  https://resources.download.minecraft.net/5d/5d1f117f0bfc658a465ecdd1be8336337b114047 
+[D#3] >  https://resources.download.minecraft.net/95/95caae37288d2475297fd2dd333dfcd2c03873ed 
+[D#2] >  https://resources.download.minecraft.net/ea/eaf9a5de1ae562c1641f1092dca78d97ca16f91a 
+[D#1] >  https://resources.download.minecraft.net/0b/0b13bde6427c138d1e4ecda739ceb04990e43b7d 
+[D#3] >  https://resources.download.minecraft.net/64/645d50772ee23879f74f83f27123a0d1f16f06ab 
+[D#1] >  https://resources.download.minecraft.net/85/85fb344eeab7096661f70bdeccd90600978a5c5a 
+[D#3] >  https://resources.download.minecraft.net/6f/6f27b68e811f2b419b4f261da0ac78e22b689106 
+[D#2] >  https://resources.download.minecraft.net/e0/e09e40430a29bd8d60f01d60be57a8a566a202a3 
+[D#1] >  https://resources.download.minecraft.net/bf/bfa56e871350743b1476f29307b56392a3ce1416 
+[D#3] >  https://resources.download.minecraft.net/6e/6e05440e88376b5a43608e3cebcc6d229852884c 
+[D#1] >  https://resources.download.minecraft.net/61/6100fe82c6c8f4bdbe6c4b63fd769483b87a14db 
+[D#2] >  https://resources.download.minecraft.net/4c/4c9e9b26ef49fe3b99f458747ca854c15a704332 
+[D#1] >  https://resources.download.minecraft.net/25/257fd27134f704147a59f4567c4682665e0bb50d 
+[D#3] >  https://resources.download.minecraft.net/00/003871a8e427a56337bf46a5d08338a7d6250b2a 
+[D#2] >  https://resources.download.minecraft.net/d6/d62e09b5610d45751373fca6970ccef3c4628b03 
+[D#1] >  https://resources.download.minecraft.net/96/9665c832266ccd9dbf6d109cedd22727858494ef 
+[D#3] >  https://maven.minecraftforge.net/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar 
+[D#1] >  https://resources.download.minecraft.net/3a/3a5f7e8f28faaf71c68c60b5ae195e93c9d9b63d 
+[D#2] >  https://resources.download.minecraft.net/18/188fa491a4e0a34654041444f9c2dcadb0178e71 
+[D#2] >  https://resources.download.minecraft.net/07/075be482936a7dfdae42320725d6ab70f2baec24 
+[D#2] >  https://resources.download.minecraft.net/a7/a7628183f6f9946090d949fc373338f764549e4b 
+[D#1] >  https://resources.download.minecraft.net/ef/efcfcd51fe0aeabb98e9d452136e7a865718ebfe 
+[D#2] >  https://resources.download.minecraft.net/cd/cde7deec122133a572fe275dc412c7d38f0c557d 
+[D#1] >  https://resources.download.minecraft.net/41/41b60e8fd082f244139a95d9fc0c5546a029cd08 
+[D#2] >  https://resources.download.minecraft.net/87/874a9ab90f86db3043da9c62fc53812c95333114 
+[D#1] >  https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar 
+[D#2] >  https://resources.download.minecraft.net/2a/2a557abda3f426f83a1d1776a84075b744114f5a 
+[D#2] >  https://resources.download.minecraft.net/cd/cdfb3775775c0ac05016893031b4f7b498e53610 
+[D#2] >  https://resources.download.minecraft.net/0d/0df1022b9bb1ff2e1291dad9cc2344d849ddcb22 
+[D#2] >  https://resources.download.minecraft.net/a3/a3c0890d6d14899b5efded7686fc36d47af0fa4c 
+[D#2] >  https://resources.download.minecraft.net/2f/2fbe1c49c7b8ea523dd0013475cfb6c95527a17f 
+[D#2] >  https://resources.download.minecraft.net/eb/eb4192c18aaf9b0c9a4d1a708d309cb5c227221f 
+[D#2] >  https://maven.minecraftforge.net/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar 
+[D#1] >  https://maven.minecraftforge.net/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar 
+[D#3] >  https://libraries.minecraft.net/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar 
+[D#3] >  https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar 
+[D#1] >  https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar 
+[D#3] >  https://libraries.minecraft.net/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar 
+[D#1] >  https://maven.minecraftforge.net/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar 
+[D#1] >  https://maven.minecraftforge.net/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar 
+[D#1] >  https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar 
+[D#2] >  https://maven.minecraftforge.net/net/jodah/typetools/0.8.3/typetools-0.8.3.jar 
+[D#1] >  https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar 
+[D#2] >  https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar 
+[D#1] >  https://maven.minecraftforge.net/org/ow2/asm/asm/9.3/asm-9.3.jar 
+[D#3] >  https://libraries.minecraft.net/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar 
+[D#3] >  https://maven.minecraftforge.net/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar 
+[D#1] >  https://maven.minecraftforge.net/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar 
+[D#2] >  https://libraries.minecraft.net/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar 
+[D#3] >  https://res.tlauncher.org/b/mods/21097060/11002269/OptiFine-1.19.2_HD_U_I1_pre4.jar 
+[D#2] >  https://maven.minecraftforge.net/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar 
+[D#1] >  https://libraries.minecraft.net/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar 
+[D#2] >  https://libraries.minecraft.net/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar 
+[D#1] >  https://libraries.minecraft.net/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar 
+[D#2] >  https://libraries.minecraft.net/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar 
+[D#3] >  https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar 
+[D#2] >  https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar 
+[D#1] >  https://maven.minecraftforge.net/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar 
+[D#2] >  https://maven.minecraftforge.net/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar 
+[D#2] >  https://libraries.minecraft.net/com/mojang/logging/1.0.0/logging-1.0.0.jar 
+[D#1] >  https://maven.minecraftforge.net/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar 
+[D#2] >  https://maven.minecraftforge.net/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar 
+[D#3] >  https://maven.minecraftforge.net/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar 
+[D#2] >  https://libraries.minecraft.net/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar 
+[D#3] >  https://res.tlauncher.org/b/libraries/org/tlauncher/tl_skin_cape_forge_1.19_1.19.2/1.28/tl_skin_cape_forge_1.19_1.19.2-1.28.jar 
+[D#2] >  https://maven.minecraftforge.net/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar 
+[D#1] >  https://maven.minecraftforge.net/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar 
+[D#3] >  https://libraries.minecraft.net/com/mojang/authlib/3.11.49/authlib-3.11.49.jar 
+[D#1] >  https://res.tlauncher.org/b/libraries/org/tlauncher/authlib/3.11.49.5/authlib-3.11.49.5.jar 
+[D#2] >  https://maven.minecraftforge.net/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar 
+[D#3] >  https://maven.minecraftforge.net/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar 
+[D#1] >  https://maven.minecraftforge.net/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar 
+[D#3] >  https://maven.minecraftforge.net/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar 
+[D#2] >  https://maven.minecraftforge.net/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar 
+[D#3] >  https://libraries.minecraft.net/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar 
+[D#1] >  https://libraries.minecraft.net/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar 
+[D#2] >  https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.2.3/fmlloader-1.19.2-43.2.3.jar 
+[D#1] >  https://libraries.minecraft.net/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar 
+[D#3] >  https://libraries.minecraft.net/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar 
+[D#3] >  https://maven.minecraftforge.net/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar 
+[D#2] >  https://maven.minecraftforge.net/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar 
+[D#3] >  https://maven.minecraftforge.net/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar 
+[D#2] >  https://piston-data.mojang.com/v1/objects/055b30d860ead928cba3849ba920c88b6950b654/client.jar 
+[D#3] >  https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar 
+[D#2] >  Found additional destinations. Copying... 
+[D#2] >  Copying E:\Игры\MineClient\versions\ForgeOptiFine 1.19.2\ForgeOptiFine 1.19.2.jar... 
+[D#2] >  Success! 
+[D#2] >  Copying completed. 
+library will be replaced: com.mojang:authlib:3.11.49 -> org.tlauncher:authlib:3.11.49.5
+library will be replaced: com.mojang:patchy:2.2.10 -> org.tlauncher:patchy:2.2.10
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: false
+E:\Игры\MineClient\backup\saves
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: E:\Игры\MineClient\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=E:\Игры\MineClient\versions\ForgeOptiFine 1.19.2\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.173 -cp E:\Игры\MineClient\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;E:\Игры\MineClient\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;E:\Игры\MineClient\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;E:\Игры\MineClient\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;E:\Игры\MineClient\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;E:\Игры\MineClient\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;E:\Игры\MineClient\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;E:\Игры\MineClient\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;E:\Игры\MineClient\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;E:\Игры\MineClient\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;E:\Игры\MineClient\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;E:\Игры\MineClient\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;E:\Игры\MineClient\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;E:\Игры\MineClient\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;E:\Игры\MineClient\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;E:\Игры\MineClient\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;E:\Игры\MineClient\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;E:\Игры\MineClient\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;E:\Игры\MineClient\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;E:\Игры\MineClient\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;E:\Игры\MineClient\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;E:\Игры\MineClient\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;E:\Игры\MineClient\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;E:\Игры\MineClient\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;E:\Игры\MineClient\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;E:\Игры\MineClient\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;E:\Игры\MineClient\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.3\fmlloader-1.19.2-43.2.3.jar;E:\Игры\MineClient\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;E:\Игры\MineClient\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\Игры\MineClient\libraries\org\tlauncher\patchy\2.2.10\patchy-2.2.10.jar;E:\Игры\MineClient\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;E:\Игры\MineClient\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;E:\Игры\MineClient\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;E:\Игры\MineClient\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;E:\Игры\MineClient\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;E:\Игры\MineClient\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;E:\Игры\MineClient\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;E:\Игры\MineClient\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\Игры\MineClient\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;E:\Игры\MineClient\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;E:\Игры\MineClient\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\Игры\MineClient\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;E:\Игры\MineClient\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\Игры\MineClient\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\Игры\MineClient\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\Игры\MineClient\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\Игры\MineClient\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;E:\Игры\MineClient\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;E:\Игры\MineClient\libraries\org\tlauncher\authlib\3.11.49.5\authlib-3.11.49.5.jar;E:\Игры\MineClient\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\Игры\MineClient\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\Игры\MineClient\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\Игры\MineClient\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;E:\Игры\MineClient\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;E:\Игры\MineClient\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;E:\Игры\MineClient\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;E:\Игры\MineClient\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;E:\Игры\MineClient\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;E:\Игры\MineClient\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;E:\Игры\MineClient\versions\ForgeOptiFine 1.19.2\ForgeOptiFine 1.19.2.jar -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,ForgeOptiFine 1.19.2.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=E:\Игры\MineClient\libraries -p E:\Игры\MineClient\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;E:\Игры\MineClient\libraries/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;E:\Игры\MineClient\libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;E:\Игры\MineClient\libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;E:\Игры\MineClient\libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;E:\Игры\MineClient\libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;E:\Игры\MineClient\libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;E:\Игры\MineClient\libraries/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmx4000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=E:\Игры\MineClient -Dlog4j.configurationFile=E:\Игры\MineClient\assets\log_configs\client-1.12.xml cpw.mods.bootstraplauncher.BootstrapLauncher --username Ferrax --version ForgeOptiFine 1.19.2 --gameDir E:\Игры\MineClient --assetsDir E:\Игры\MineClient\assets --assetIndex 1.19 --uuid f8298f0adf0942a794a3c6c7c8e1015f --accessToken null --clientId ${clientid} --xuid ${auth_xuid} --userType mojang --versionType modified --width 925 --height 530 --launchTarget forgeclient --fml.forgeVersion 43.2.3 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after E:\Игры\MineClient\mods\OptiFine-OptiFine-1.19.2_HD_U_I1_pre4.jar E:\Игры\MineClient\mods\tl_skin_cape_forge_1.19_1.19.2-1.28.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat []
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] skin system is activated: true
+[Launcher] Starting Minecraft ForgeOptiFine 1.19.2...
+[Launcher] Launching in: E:\Игры\MineClient
+Starting garbage collector: 158 / 502 MB
+Garbage collector completed: 46 / 497 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[10:55:42] [main/INFO]: ModLauncher running: args [--username, Ferrax, --version, ForgeOptiFine 1.19.2, --gameDir, E:\Игры\MineClient, --assetsDir, E:\Игры\MineClient\assets, --assetIndex, 1.19, --uuid, f8298f0adf0942a794a3c6c7c8e1015f, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.3, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[10:55:42] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[10:55:66] [main/INFO]: OptiFineTransformationService.onLoad
+[10:55:83] [main/INFO]: OptiFine ZIP file URL: union:/E:/Игры/MineClient/mods/OptiFine-OptiFine-1.19.2_HD_U_I1_pre4.jar%23147!/
+[10:55:84] [main/INFO]: OptiFine ZIP file: E:\Игры\MineClient\mods\OptiFine-OptiFine-1.19.2_HD_U_I1_pre4.jar
+[10:55:84] [main/INFO]: Target.PRE_CLASS is available
+[10:55:92] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/Игры/MineClient/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[10:55:93] [main/INFO]: OptiFineTransformationService.initialize
+[10:55:98] [main/WARN]: Configuration file E:\Игры\MineClient\config\fml.toml is not correct. Correcting
+[10:55:99] [main/WARN]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[10:55:11] [main/INFO]: Found mod file tl_skin_cape_forge_1.19_1.19.2-1.28.jar of type MOD with provider {mods folder locator at E:\Игры\MineClient\mods}
+[10:55:34] [main/WARN]: Mod file E:\Игры\MineClient\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.3\fmlcore-1.19.2-43.2.3.jar is missing mods.toml file
+[10:55:34] [main/WARN]: Mod file E:\Игры\MineClient\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.3\javafmllanguage-1.19.2-43.2.3.jar is missing mods.toml file
+[10:55:35] [main/WARN]: Mod file E:\Игры\MineClient\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.3\lowcodelanguage-1.19.2-43.2.3.jar is missing mods.toml file
+[10:55:35] [main/WARN]: Mod file E:\Игры\MineClient\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.3\mclanguage-1.19.2-43.2.3.jar is missing mods.toml file
+[10:55:39] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.3.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6e92c6ad
+[10:55:39] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.3.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6e92c6ad
+[10:55:39] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.3.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6e92c6ad
+[10:55:39] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.3.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6e92c6ad
+[10:55:39] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6e92c6ad
+[10:55:39] [main/INFO]: Found mod file forge-1.19.2-43.2.3-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6e92c6ad
+[10:55:44] [main/INFO]: No dependencies to load found. Skipping!
+[10:55:07] [main/INFO]: OptiFineTransformationService.transformers
+[10:55:08] [main/INFO]: Targets: 386
+[10:55:65] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[10:55:19] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[10:55:22] [main/INFO]: Launching target 'forgeclient' with arguments [--version, ForgeOptiFine 1.19.2, --gameDir, E:\Игры\MineClient, --assetsDir, E:\Игры\MineClient\assets, --uuid, f8298f0adf0942a794a3c6c7c8e1015f, --username, Ferrax, --assetIndex, 1.19, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
+[10:55:84] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[10:55:05] [Render thread/WARN]: Assets URL 'union:/E:/Игры/MineClient/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
+[10:55:05] [Render thread/WARN]: Assets URL 'union:/E:/Игры/MineClient/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
+[10:55:09] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:55:76] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:155)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:161)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.Minecraft.m_193585_(Minecraft.java:646)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.Minecraft.<init>(Minecraft.java:405)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.m_239872_(Main.java:176)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.3/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+Caused by: MinecraftClientHttpException[type=HTTP_ERROR, status=401, response=null]
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:87)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129)
+	... 19 more
+
+[10:55:77] [Render thread/INFO]: Setting user: Ferrax
+[10:55:21] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[10:55:22] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[10:55:69] [Render thread/INFO]: [OptiFine] 
+[10:55:69] [Render thread/INFO]: [OptiFine] OptiFine_1.19.2_HD_U_I1_pre4
+[10:55:69] [Render thread/INFO]: [OptiFine] Build: 20221114-000910
+[10:55:69] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[10:55:69] [Render thread/INFO]: [OptiFine] Java: 17.0.3, Microsoft
+[10:55:69] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[10:55:69] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[10:55:70] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2, version 3.2.0 NVIDIA 522.25, NVIDIA Corporation
+[10:55:70] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.0
+[10:55:71] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[10:55:71] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[10:55:75] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.0 NVIDIA 522.25
+[10:55:75] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[10:55:75] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+[10:55:75] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[10:55:76] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[10:55:76] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[10:55:76] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[10:55:76] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[10:55:76] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[10:55:77] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[10:55:78] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[10:55:78] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[10:55:96] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.19.2/HD_U.txt
+[10:55:98] [modloading-worker-0/INFO]: Forge mod loading, version 43.2.3, for MC 1.19.2 with MCP 20220805.130853
+[10:55:98] [modloading-worker-0/INFO]: MinecraftForge v43.2.3 Initialized
+[10:55:51] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[10:55:51] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[10:55:51] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[10:55:51] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[10:55:24] [Worker-Main-1/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[10:55:30] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[10:55:33] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[10:55:37] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[10:55:37] [Render thread/INFO]: [OptiFine] Resource packs: Mod Resources
+[10:55:40] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:55:41] [modloading-worker-0/WARN]: Configuration file E:\Игры\MineClient\config\forge-client.toml is not correct. Correcting
+[10:55:41] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[10:55:41] [modloading-worker-0/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[10:55:41] [modloading-worker-0/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[10:55:41] [modloading-worker-0/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[10:55:41] [modloading-worker-0/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[10:55:41] [modloading-worker-0/WARN]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[10:55:42] [modloading-worker-0/WARN]: Configuration file E:\Игры\MineClient\config\forge-common.toml is not correct. Correcting
+[10:55:42] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[10:55:42] [modloading-worker-0/WARN]: Incorrect key general.cachePackAccess was corrected from null to its default, true. 
+[10:55:42] [modloading-worker-0/WARN]: Incorrect key general.indexVanillaPackCachesOnThread was corrected from null to its default, false. 
+[10:55:42] [modloading-worker-0/WARN]: Incorrect key general.indexModPackCachesOnThread was corrected from null to its default, false. 
+[10:55:53] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10:55:60] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[10:55:62] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[10:55:62] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
+[10:55:62] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[10:55:76] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[10:55:38] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 43.2.3 Target: 43.2.6
+[10:55:96] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:55:96] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:55:96] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:55:96] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:55:42] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:45] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:55:45] [Worker-Main-7/INFO]: [OptiFine] Multipass connected textures: false
+[10:55:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[10:55:48] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[10:55:48] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[10:55:49] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[10:55:49] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[10:55:49] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[10:55:50] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[10:55:50] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[10:55:50] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[10:55:50] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[10:55:52] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[10:55:52] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[10:55:52] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[10:55:52] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[10:55:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[10:55:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[10:55:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[10:55:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[10:55:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[10:55:55] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[10:55:55] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[10:55:55] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[10:55:55] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[10:55:56] [Worker-Main-7/INFO]: [OptiFine] Multipass connected textures: false
+[10:55:57] [Worker-Main-7/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[10:55:24] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 4
+[10:55:26] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:27] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[10:55:27] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[10:55:27] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[10:55:27] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[10:55:33] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:39] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[10:55:39] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[10:55:40] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[10:55:40] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[10:55:41] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:47] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[10:55:47] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[10:55:48] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[10:55:48] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[10:55:49] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[10:55:51] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[10:55:51] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[10:55:54] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[10:55:54] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[10:55:55] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[10:55:57] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[10:55:57] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[10:55:58] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[10:55:58] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[10:56:04] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[10:56:04] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[10:56:17] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on LG FULL HD (NVIDIA High Definition Audio)
+[10:56:17] [Render thread/INFO]: Sound engine started
+[10:56:41] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[10:56:43] [Render thread/INFO]: [OptiFine] Animated sprites: 51
+[10:56:43] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[10:56:43] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:43] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[10:56:43] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:43] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[10:56:44] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:44] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[10:56:44] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:44] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[10:56:44] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:44] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[10:56:44] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:95] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[10:56:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[10:56:29] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[10:56:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[10:56:29] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:29] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[10:56:29] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[10:56:30] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[10:56:30] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:56:32] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:56:32] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:56:71] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:56:71] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[10:56:71] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[10:56:71] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[10:56:62] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[TLSkinCape] Current TLSkinCape version is 1.28
+[TLSkinCape] Current Minecraft version is 1.18.
+[TLSkinCape] OptiFine detected.
+[10:56:52] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (32 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (6 ms)
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary E:\Игры\MineClient\mods\OptiFine-OptiFine-1.19.2_HD_U_I1_pre4.jar E:\Игры\MineClient\mods\tl_skin_cape_forge_1.19_1.19.2-1.28.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

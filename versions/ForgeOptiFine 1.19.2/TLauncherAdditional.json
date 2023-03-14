@@ -1,0 +1,81 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "modsLibraries": [
+    {
+      "name": "optifine:OptiFine:OptiFine-1.19.2_HD_U_I1_pre4",
+      "artifact": {
+        "sha1": "9b93f347b574b25bc159d7905e55e180865684ae",
+        "size": 6430335,
+        "path": "optifine/OptiFine/OptiFine-1.19.2_HD_U_I1_pre4/OptiFine-1.19.2_HD_U_I1_pre4.jar",
+        "url": "http://res.tlauncher.org/unb/mods/21097060/11002269/OptiFine-1.19.2_HD_U_I1_pre4.jar"
+      }
+    }
+  ],
+  "additionalFiles": [
+    {
+      "sha1": "0dd501541eb617a551187ad7d6130623989584dd",
+      "size": 11637719,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
+    },
+    {
+      "sha1": "b78d6d3c3160407bd7a6da30b345dd2b8b29da34",
+      "size": 10007043,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
+    },
+    {
+      "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
+      "size": 7236064,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt"
+    },
+    {
+      "sha1": "24d05fdd07a59ff816c1b85bf756d13ccc771be9",
+      "size": 17332865,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
+    },
+    {
+      "sha1": "73a7d0badf1a33815819e5a7160545839df02a39",
+      "size": 5290702,
+      "path": "libraries/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-client.jar"
+    },
+    {
+      "sha1": "8877f4d766a63137e1b447c54c3d3ea0a2b71dae",
+      "size": 2601295,
+      "path": "libraries/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-universal.jar"
+    },
+    {
+      "sha1": "afe360ce5e3041882fcd8bbf1550fa822619a7b8",
+      "size": 112531,
+      "path": "libraries/net/minecraftforge/fmlcore/1.19.2-43.2.3/fmlcore-1.19.2-43.2.3.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.19.2-43.2.3/fmlcore-1.19.2-43.2.3.jar"
+    },
+    {
+      "sha1": "45687785dd2c4c0a44768b7d49d78a7d0d95a074",
+      "size": 16348,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.19.2-43.2.3/javafmllanguage-1.19.2-43.2.3.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.19.2-43.2.3/javafmllanguage-1.19.2-43.2.3.jar"
+    },
+    {
+      "sha1": "4397f2bd6f775ca187878e0ae5917fed0436e0d9",
+      "size": 4984,
+      "path": "libraries/net/minecraftforge/mclanguage/1.19.2-43.2.3/mclanguage-1.19.2-43.2.3.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.19.2-43.2.3/mclanguage-1.19.2-43.2.3.jar"
+    },
+    {
+      "sha1": "a277cdb1c183feb61bfc17268fa67689c1c111dc",
+      "size": 7374,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.2.3/lowcodelanguage-1.19.2-43.2.3.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.19.2-43.2.3/lowcodelanguage-1.19.2-43.2.3.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "source": "local_version_repo",
+  "skinVersion": false,
+  "updatedTime": "2022-08-04T04:25:45+03:00"
+}
